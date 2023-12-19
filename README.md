@@ -140,7 +140,7 @@ find / -perm -u=s 2>/dev/null
 
 10. _**User Education:**_
 
-  Educate users about the risks associated with SUID programs and the importance of not running unknown or untrusted executables.
+    Educate users about the risks associated with SUID programs and the importance of not running unknown or untrusted executables.
 
 10. _**Logging and Monitoring:**_
 
