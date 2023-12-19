@@ -96,7 +96,9 @@ find / -perm -u=s 2>/dev/null
 
 ## _**How to abuse them to elevate privileges?**_
 
-Video Link Here.
+<p align="left">
+  Video Link <a href="https://github.com/DenialArcus/Intro-to-CYS-Lab/blob/main/demo_video%20.mp4" style="text-decoration: none; color: inherit; font-weight: bold;">Here</a>
+</p>
 
 ## _**How to Avoid it ??**_
 
@@ -151,3 +153,10 @@ Video Link Here.
 12. _**Restrict SUID to Trusted Users:**_
 
     Limit the users who have the ability to set the SUID bit on files. This should be restricted to trusted administrators only.
+
+
+## _**Slides**_
+
+<p align="left">
+  Presentation Slides Link <a href="https://www.canva.com/design/DAF3FIq5v8w/IryxNG9Xy-jQZDPRP0HIXQ/view?utm_content=DAF3FIq5v8w&utm_campaign=designshare&utm_medium=link&utm_source=editor" style="text-decoration: none; color: inherit; font-weight: bold;">Here</a>
+</p>
