@@ -104,7 +104,7 @@ Video Link Here.
 
    Limit the number of programs with the SUID bit set. Only essential programs that require elevated privileges should have this permission.
 
-2. _***Regular Auditing:_***
+2. _**Regular Auditing:**_
 
    Regularly audit the system for SUID programs. Use tools like find to identify files with the SUID bit set and review their necessity.
    ```bash
