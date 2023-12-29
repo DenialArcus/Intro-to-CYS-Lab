@@ -155,6 +155,9 @@ find / -perm -u=s 2>/dev/null
     Limit the users who have the ability to set the SUID bit on files. This should be restricted to trusted administrators only.
 
 
+https://www.canva.com/design/DAF3xszQCzM/kJb5pHGrIFhnrUV2KBuBQQ/view?utm_content=DAF3xszQCzM&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
+
 ## _**Slides**_
 
 <p align="left">
